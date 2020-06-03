@@ -6,8 +6,8 @@
 # How to use:
 - The home page shows a list of categories (eg, food supply, aerospace). 
 - The toggle buttons at the side indicate that category's permission. 
-"On" being that that category permission is allowed (shops with that category are allowed to open)
-"Off" being that that category permission is denied (shops with that category are not allowed to open)
+--"On" being that that category permission is allowed (shops with that category are allowed to open)
+--"Off" being that that category permission is denied (shops with that category are not allowed to open)
 - Toggle the buttons and click the Submit button.
 - For shops with multiple categories, if ALL of those categories are the same (either all "On" or all "Off"), there is no conflicting categories permissions -> that shop does not fall under gray area
 For shops with multiple categories, if those categories have differing permissions, there is a conflict in categories permissions -> the shop falls under the gray area
